@@ -27,6 +27,7 @@ syntax enable
 filetype plugin on  
 set number
 set ruler
+set clipboard=unnamed
 let g:go_disable_autoinstall = 0
 
 " Highlight
